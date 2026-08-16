@@ -43,15 +43,17 @@ After the holes are drilled, remove the 3D printed shell and disassemble it for 
 
 ## PCB & Shell Assembly
 
-There is nothing special about the soldering. Resistor R1 and R2 are optional of you have requirements for 5V power or ESD consideration.
+There is nothing special about the soldering.
 
-![PCB Assembly 1](./Pics/pcb_1.jpg)
+Resistor R1 and R2 are optional of you have requirements for 5V power or ESD consideration.
 
 Make sure the VGA port is soldered on properly with no gap between the base of the port and the PCB.
 
-![PCB Assembly 2](./Pics/pcb_2.jpg)
+![PCB Assembly 1](./Pics/pcb_1.jpg)
 
 Use colored wires to help with later installation to your own discretion.
+
+![PCB Assembly 2](./Pics/pcb_2.jpg)
 
 Finally, install the PCB assembly into the 3D printed shell with M3x16mm screws and nuts.
 
