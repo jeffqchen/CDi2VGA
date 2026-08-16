@@ -51,7 +51,7 @@ Make sure the VGA port is soldered on properly with no gap between the base of t
 
 ![PCB Assembly 1](./Pics/pcb_1.jpg)
 
-Use colored wires to help with later installation to your own discretion.
+Signals are marked on the PCB. Use colored wires of your choice to help with later installation.
 
 ![PCB Assembly 2](./Pics/pcb_2.jpg)
 
