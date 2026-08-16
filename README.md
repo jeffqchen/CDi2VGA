@@ -1,4 +1,4 @@
-# HD15 Port Addon for Phlips CD-i
+# HD15 Port Add-on for Phlips CD-i
 
 ## Introduction
 
