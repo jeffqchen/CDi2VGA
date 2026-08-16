@@ -1,9 +1,14 @@
-[HD15 Port Addon for Phlips CD-i]
+# HD15 Port Addon for Phlips CD-i
+
+## Introduction
+
+![Philips CD-i 450 with HD15 Addon](./Pics/cover_450_550.jpg)
+
 
 The Philips CD-i can be modded with RGB output. However the actual output port sometimes involve cutting big holes or removing the Composite Video jack to fit. Therefore, I have come up this addon to fit an HD15 port onto the grills on the back of the console.
 
-Currently supported Models
-- 450 & 550
+## Currently supported Models
+- 450 & 550 - [Guide](./450%20%26%20550/README.md)
 
 -----------
 
