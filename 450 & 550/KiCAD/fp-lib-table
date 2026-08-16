@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "CD-i 450 VGA Add-on") (type "KiCad") (uri "${KIPRJMOD}/CD-i 450 VGA Add-on.pretty") (options "") (descr ""))
+)
