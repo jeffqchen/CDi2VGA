@@ -97,7 +97,7 @@ Here is an example of my own RGB mod install. I trimmed the wires to better fit 
 
 ![RGB Installation](./Pics/rgb_install.jpg)
 
-When closing the top metal shielding down, make sure to check if any wire is being crushed by the shielding (mine was fine.)
+When closing down the top metal shielding, make sure to check if any wire is being crushed by the edge of the top shielding (mine was fine.)
 
 ![Closing check](./Pics/closeup_check.jpg)
 
