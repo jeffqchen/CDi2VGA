@@ -63,7 +63,9 @@ Thread the wires from the various vents into the metal shielding.
 
 Note the first and last vent are used by the shell and should not have wires going through them. 
 
-On the inside, I mainly used the top row holes since the lower ones might interfere with the motherboard. Make sure the wires are not played with or bent too much during this step, as they tend to break at the solder joint.
+On the inside, I mainly used the top row holes since the lower ones might interfere with the motherboard.
+
+Make sure the wires are not played with or bent too much during this step, as they tend to break at the solder joint.
 
 ![Installation 1](./Pics/install_01.jpg)
 ![Installation 2](./Pics/install_02.jpg)
