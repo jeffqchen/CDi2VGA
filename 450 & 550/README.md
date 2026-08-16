@@ -45,7 +45,7 @@ After the holes are drilled, remove the 3D printed shell and disassemble it for 
 
 There is nothing special about the soldering.
 
-Resistor R1 and R2 are optional of you have requirements for 5V power or ESD consideration.
+Resistor R1 and R2 are optional if you have requirements for 5V power or ESD consideration.
 
 Make sure the VGA port is soldered on properly with no gap between the base of the port and the PCB.
 
