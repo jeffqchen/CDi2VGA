@@ -20,6 +20,9 @@ Since the original Composite Video jack is preserved, it is possible to output b
 - 3D Printed parts - [STL Files](./3D%20Print)
 - PCB - [Gerber File](./KiCAD/jlcpcb/gerber/CD-i%20450%20VGA%20Add-on.zip)
 - VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
+- (Optional) Resistors, imperial 0603
+  - R1: 0 Ohm, for fusing the 5V power line
+  - R2: 1M Ohm, for connecting the VGA cable shielding to ground with ESD protection
 - M2/M3 screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
   - 2x M3x8 screws
   - 2x M3x16 screws
@@ -40,7 +43,7 @@ After the holes are drilled, remove the 3D printed shell and disassemble it for 
 
 ## PCB & Shell Assembly
 
-There is nothing special about the soldering.
+There is nothing special about the soldering. Resistor R1 and R2 are optional of you have requirements for 5V power or ESD consideration.
 
 ![PCB Assembly 1](./Pics/pcb_1.jpg)
 
