@@ -22,7 +22,7 @@ The pin definition follows the standard of my [VGA Dongle Series](https://github
 
 This VGA signal is compatible with all major scalers.
 - RetroTINK 5X - with my [dock](https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock)
-- RetroTINK 4K - directly connect to the HD15 port or through my [SCART2VGA adapter](https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter))
+- RetroTINK 4K - directly connect to the `HD15` port or through my [SCART2VGA adapter](https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter)
 - OSSC - directly connect to AV3 (VGA) port **IF** `CS_TTL` is connected to `Pin 13`
 - GBSControl
 
