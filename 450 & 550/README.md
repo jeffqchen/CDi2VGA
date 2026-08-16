@@ -7,7 +7,7 @@ This variant fits the CD-i 450 & 550, since both share the same chassis and moth
 ## Parts
 
 - 3D Printed parts - [STL Files](./3D%20Print)
-- PCB - [Gerber File](./KiCAD/jlcpcb/gerber/CD-i%20450%20VGA%20Add-on.zip)
+- PCB - <a href="./KiCAD/jlcpcb/gerber/CD-i%20450%20VGA%20Add-on.zip" download>Gerber File</a>
 - VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 - M2/M3 screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
   - 2x M3x8 screws
